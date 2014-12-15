@@ -1,0 +1,16 @@
+Name:				Intial Population:			Prey:			# Prey Consumer per Month (per 1 Organism):		# Reproductions per Month:
+Plankton			100000						-				0												100000
+Shrimp				100							Plankton		100												50
+Blue_Crab			20							Shrimp			3												10
+Sand_Shark			2							Blue_Crab		4												1
+
+Krill				14000						Plankton		20												5000
+Blue_Whale			2							Krill			50												1
+
+Sardines			500							Krill			5												250
+
+Herring				28							Krill			5												30
+Dolphin				3							Herring			4												2
+
+Tuna				25							Sardines		5												15
+Great_White_Shark	2							Tuna			10												1

@@ -1,0 +1,76 @@
+Team: Julia_Rowers
+NumBoats: 10
+NumRaces: 5
+
+Boat 1
+Race 1:	7:30
+Race 2:	7:45
+Race 3:	7:56
+Race 4:	7:44
+Race 5: 7:59
+
+Boat 2
+Race 1:	8:06
+Race 2:	8:00
+Race 3:	7:55
+Race 4:	7:59
+Race 5:	7:50
+
+Boat 3
+Race 1:	7:22
+Race 2:	7:30
+Race 3:	7:57
+Race 4:	7:48
+Race 5:	7:45
+
+Boat 4
+Race 1:	8:21
+Race 2:	8:14
+Race 3:	8:01
+Race 4:	8:12
+Race 5:	8:10
+
+Boat 5
+Race 1:	7:58
+Race 2:	8:02
+Race 3:	7:49
+Race 4:	7:52
+Race 5:	7:54
+	
+Boat 6
+Race 1:	7:45	
+Race 2:	7:23
+Race 3:	7:44
+Race 4:	7:40
+Race 5:	7:49
+
+Boat 7
+Race 1:	8:16
+Race 2:	8:04
+Race 3:	8:11
+Race 4:	7:58
+Race 5:	7:57
+
+Boat 8
+Race 1:	8:12
+Race 2:	8:19
+Race 3:	8:11
+Race 4:	7:58
+Race 5:	7:30
+
+Boat 9 
+Race 1:	7:12
+Race 2:	8:16
+Race 3:	8:11
+Race 4:	7:37
+Race 5:	7:41
+
+
+Boat 10
+Race 1:	7:35
+Race 2:	7:30
+Race 3:	8:56
+Race 4:	7:55
+Race 5: 7:59
+
+
